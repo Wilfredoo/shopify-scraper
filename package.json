@@ -1,0 +1,8 @@
+{
+  "name": "shopifyScraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Wilfredoo/shopify-scraper.git",
+  "author": "Wilfredo <casas.farach@gmail.com>",
+  "license": "MIT"
+}
